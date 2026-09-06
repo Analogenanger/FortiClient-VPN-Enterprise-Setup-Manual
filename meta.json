@@ -1,0 +1,23 @@
+{
+  "repo": "forticlient-vpn-enterprise-setup-manual",
+  "product": "FortiClient VPN Enterprise Setup Manual",
+  "kind": "network",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "network",
+  "topics": [
+    "forticlient-vpn",
+    "fortinet-ssl-vpn",
+    "corporate-vpn",
+    "endpoint-agent",
+    "ztna-client",
+    "forticlient-setup-failed-fix",
+    "how-to-install-forticlient",
+    "forticlient-windows",
+    "forticlient-desktop-2026",
+    "forticlient-desktop-package"
+  ],
+  "site": "toolix.me"
+}
